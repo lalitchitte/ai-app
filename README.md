@@ -2,15 +2,15 @@
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
-<img src="https://github.com/user-attachments/assets/1746e4ec-4606-4815-9535-b2d2fc10a90b" height="500" width="300" />
+<img src="https://github.com/user-attachments/assets/1746e4ec-4606-4815-9535-b2d2fc10a90b" height="600" width="350" />
 
-<img src="https://github.com/user-attachments/assets/a840fab1-200a-4dce-b9e3-b85320deb396" height="500" width="300" />
+<img src="https://github.com/user-attachments/assets/a840fab1-200a-4dce-b9e3-b85320deb396" height="600" width="350" />
 
-<img src="https://github.com/user-attachments/assets/335ca50d-9824-402e-b1a5-a9d4beb024d9" height="500" width="300" />
+<img src="https://github.com/user-attachments/assets/335ca50d-9824-402e-b1a5-a9d4beb024d9" height="600" width="350" />
 
-<img src="https://github.com/user-attachments/assets/14ac0f0d-784a-4b95-82c9-5e7aaa0d54b4" height="500" width="300" />
+<img src="https://github.com/user-attachments/assets/14ac0f0d-784a-4b95-82c9-5e7aaa0d54b4" height="600" width="350" />
 
-<img src="https://github.com/user-attachments/assets/d4d8d2fe-6936-40bf-88e7-07887cf84156" height="500" width="300" />
+<img src="https://github.com/user-attachments/assets/d4d8d2fe-6936-40bf-88e7-07887cf84156" height="600" width="350" />
 
 ## Get started
 
